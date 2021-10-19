@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/webapp" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -35,5 +36,77 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第3节 企业门户网站前后台开发/辅助材料/训练素材/dom4j/dom4j-2.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第3节 企业门户网站前后台开发/辅助材料/训练素材/dom4j/jaxen-1.1.6.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第17周 Java数据库开发基础/第2节 JDBC入门/辅助材料/训练素材/训练素材/commons-dbutils/commons-dbutils-1.7-bin/commons-dbutils-1.7/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../StudyDocument" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段一：java零基础入门/第6-7周 常用工具类（下）/第3节 Java多线程/辅助材料/多线程源码/ThreadProj/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段一：java零基础入门/第6-7周 常用工具类（下）/第5节 综合案例：播放器/辅助材料/集合综合案例-src/ImoocProj/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第17周 Java数据库开发基础/第2节 JDBC入门/辅助材料/imoocjdbc/imooc-jdbc/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第3节 Java反射/辅助材料/java反射的源代码/第1章 反射入门/math/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第3节 Java反射/辅助材料/java反射的源代码/第2章 讲解反射四个核心类/reflect/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第3节 Java反射/辅助材料/java反射的源代码/第3章 反射技术在项目中的应用/i18n/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第4节 Lambda表达式/辅助材料/Lambda的课程源代码/源代码/第1章 Lambda表达式语法/lambda/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第4节 Lambda表达式/辅助材料/Lambda的课程源代码/源代码/第2章 函数式编程/lambda/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段三：Java数据库开发与实战/第18周 框架前置知识/第4节 Lambda表达式/辅助材料/Lambda的课程源代码/源代码/第3章 Stream流式处理/stream/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第10-11周 Java Web基础/第2节 Servlet入门/辅助材料/Servlet入门源代码/FirstServlet/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第10-11周 Java Web基础/第2节 Servlet入门/辅助材料/Servlet入门源代码/job-servlets/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第12周 常用功能与过滤器/第2节 jQuery与Ajax入门/辅助材料/jQuery与Ajax入门源代码/jQuery与Ajax入门源代码/ajax/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第12周 常用功能与过滤器/第4节 过滤器/辅助材料/过滤器源代码/device-adapter/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第12周 常用功能与过滤器/第4节 过滤器/辅助材料/过滤器源代码/filter-chain/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第12周 常用功能与过滤器/第4节 过滤器/辅助材料/过滤器源代码/first-filter/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第12周 常用功能与过滤器/第4节 过滤器/辅助材料/过滤器源代码/url-pattern/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第2节 FreeMarker/辅助材料/FreeMarker源代码/FreeMarker源代码/fm-web/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第2节 FreeMarker/辅助材料/FreeMarker源代码/FreeMarker源代码/freemarker/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第3节 企业门户网站前后台开发/辅助材料/企业门户网站源码/mgallery前端阶段代码/mgallery/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/java/阶段二：从网页搭建入门Java Web/第13-14周 监听器与项目实战/第3节 企业门户网站前后台开发/辅助材料/企业门户网站源码/mgallery完整代码/mgallery/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/图像处理方向相关学习资料/深入理解OpenCV：实用计算机视觉项目解析-源代码/Mastering_OpenCV_Code/Chapter1_AndroidCartoonifier/Cartoonifier_Android/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/研究生数学建模竞赛优秀论文选（2004-2020）/2010年全国研究生数学建模竞赛优秀论文选/2010C/10422016C/10422016/程序/grow/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/QQClient/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/QQServer/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter08/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter10/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter11/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter12/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter13/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter14/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter15/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter16/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter17/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter18/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter19/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter20/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter21/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter23/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter25/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter27/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/chapter28/src" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter02" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter03" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter04" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter05" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter06" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/代码/代码/javacode/chapter07" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/公交车" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/扔石头" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/球和篮子" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/画图" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/矩阵中查找单词路径数" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/google算法编程大赛/磁盘问题" />
+          <root url="file://$MODULE_DIR$/../../../StudyDocument/韩顺平 2021零基础学Java 【软件 资料 代码 笔记】(1)/资料/分享资料/猜拳游戏" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../StudyDocument" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
